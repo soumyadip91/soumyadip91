@@ -1,0 +1,22 @@
+#heading_color{
+    background-color: aqua;
+   
+}
+#heading_color{
+ padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+#error_color{
+    background-color: chartreuse;
+}
+
+#search_color{
+    background-color: darkorange;
+}
+
+#bgcolor{
+
+    background-color: rgb(243, 247, 10);
+}
