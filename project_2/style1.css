@@ -1,18 +1,16 @@
 #heading_color{
+    margin: auto;
     background-color: aqua;
    
 }
-#heading_color{
- padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
-}
-
 
 #error_color{
+    margin: auto;
     background-color: chartreuse;
 }
 
 #search_color{
+    margin: auto;
     background-color: darkorange;
 }
 
