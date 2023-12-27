@@ -1,5 +1,10 @@
 /*CSS US HERE */
 
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
 #sumbit_this{
     background-color: blue;
     color: red;
