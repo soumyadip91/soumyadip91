@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#tab1{
+    height: 4px;
+    width: 3px;
+    background-color: aqua;
+}
+#header_{
+    height: 65px;
+    width: 1280px;
+    background-color: #000000;
+    border: 2px #b2abab solid;
+    border-radius: 2px;
+}
+
+#search_in{
+    border: 2px white solid;
+    size: auto;
+}
+
+#div_1{
+    height: 100vh;
+    width: 1280px;
+    background-color:#e8f6fd;
+}
+
+#div_line{
+    width: 1280px;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+}
+#div_2{
+    height: 100vh;
+    width: 1280px;
+    background-color:#e8f6fd;
+}
+#footer_{
+    width: 1280px;
+    height: 285px;
+    background-color: #8c5643;
+}
+
+#dot_3{
+    position: relative;
+    top: 18px;
+    left: 95vw;
+}
+
+#website_logo{
+position: relative;
+top: -25px;
+left: 16px;
+}
+#name_{
+    color: azure;
+    position: relative;
+    top: -63px;
+    left: 75px;
+}
+
+#modeling_1{
+    position: relative;
+    top: 105px;
+    left: 50px;
+}
+
+.img_{
+    height: 220px;
+    width: 150px;
+    background-image: url("peakpx\ \(1\).jpg");
+    margin: 20px;
+    display: inline-block;
+    border: 2px rgb(181, 181, 181) transparent;
+    border-radius: 4px;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+}
+
+.img_:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;
+}
